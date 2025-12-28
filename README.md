@@ -28,7 +28,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,ubuntu,apple,ubuntu,gmail,gcp,powershell,azure,docker,github,git,vercel,vscode,bash,htmlx,css&perline=12" />
+    <img src="https://skillicons.dev/icons?i=windows,ubuntu,apple,ubuntu,gmail,gcp,powershell,azure,docker,github,git,vercel,vscode,bash,htmlx,cssx&perline=12" />
   </a>
 </p>
 <br>
